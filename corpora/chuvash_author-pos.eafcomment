@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ColTimeList xmlns="http://mpi.nl/tools/coltime"
+    xmlns:NS1="http://www.w3.org/2001/XMLSchema-instance" NS1:schemaLocation="http://mpi.nl/tools/coltime http://www.mpi.nl/tools/coltime/schema.xsd">
+    <ColTime ColTimeMessageID="b2aabeb2-cffa-4a64-aa7c-54e3e6d306ac" URL="">
+        <Metadata>
+            <Initials/>
+            <ThreadID/>
+            <Sender/>
+            <Recipient/>
+            <CreationDate>2021-09-26T18:17:23.303Z</CreationDate>
+            <ModificationDate>2021-09-26T18:17:23.303Z</ModificationDate>
+            <Category>unknown</Category>
+            <Status>unknown</Status>
+        </Metadata>
+        <AnnotationFile URL="" type="EAF">urn:nl-mpi-tools-elan-eaf:6cdb39b2-70d4-4d30-99dd-de1a3eec02a7#t=12.703/13.079;tier=pos@osg1948m</AnnotationFile>
+        <Message>СТОСЕМИДЕСЯТИЛЕТИЕ - одно сущ. (n), которое говорящий произносит, разделяя междометием, а не числительное (n)</Message>
+    </ColTime>
+    <ColTime ColTimeMessageID="6b8e56c1-5cd0-4db4-8558-a5bac2c7e4af" URL="">
+        <Metadata>
+            <Initials/>
+            <ThreadID/>
+            <Sender/>
+            <Recipient/>
+            <CreationDate>2021-09-26T18:19:19.011Z</CreationDate>
+            <ModificationDate>2021-09-26T18:19:19.011Z</ModificationDate>
+            <Category>unknown</Category>
+            <Status>unknown</Status>
+        </Metadata>
+        <AnnotationFile URL="" type="EAF">urn:nl-mpi-tools-elan-eaf:6cdb39b2-70d4-4d30-99dd-de1a3eec02a7#t=15.703/15.853;tier=pos@osg1948m</AnnotationFile>
+        <Message>ВОТ в данном контексте является частицей (part), а не междометием (int), так как говорящий таким образом указывает на определенный объект</Message>
+    </ColTime>
+    <ColTime ColTimeMessageID="66317948-9f1c-4279-8bbb-442a6838ac5f" URL="">
+        <Metadata>
+            <Initials/>
+            <ThreadID/>
+            <Sender/>
+            <Recipient/>
+            <CreationDate>2021-09-26T18:21:11.287Z</CreationDate>
+            <ModificationDate>2021-09-26T18:21:11.287Z</ModificationDate>
+            <Category>unknown</Category>
+            <Status>unknown</Status>
+        </Metadata>
+        <AnnotationFile URL="" type="EAF">urn:nl-mpi-tools-elan-eaf:6cdb39b2-70d4-4d30-99dd-de1a3eec02a7#t=16.605/16.793;tier=pos@iii1965m</AnnotationFile>
+        <Message>АГА здесь и далее является частицей (part), а не междометием (int), так как является синонимом ДА</Message>
+    </ColTime>
+    <ColTime ColTimeMessageID="4d128cf6-09ed-4e69-b572-cd53bbc366b0" URL="">
+        <Metadata>
+            <Initials/>
+            <ThreadID/>
+            <Sender/>
+            <Recipient/>
+            <CreationDate>2021-09-26T17:46:02.824Z</CreationDate>
+            <ModificationDate>2021-09-26T17:47:23.891Z</ModificationDate>
+            <Category>unknown</Category>
+            <Status>unknown</Status>
+        </Metadata>
+        <AnnotationFile URL="" type="EAF">urn:nl-mpi-tools-elan-eaf:6cdb39b2-70d4-4d30-99dd-de1a3eec02a7#t=22.941/23.314;tier=pos@osg1948m</AnnotationFile>
+        <Message>МНОГОЕ в данном контексте можно считать как субстантивированным существительным(n), так и наречием(adv)=МНОГО в зависимости от намерений говорящего (неизвестно, ошибся ли говорящий)</Message>
+    </ColTime>
+    <ColTime ColTimeMessageID="e570e6b0-1dc9-4a99-baaa-cf6cdc54dc2e" URL="">
+        <Metadata>
+            <Initials/>
+            <ThreadID/>
+            <Sender/>
+            <Recipient/>
+            <CreationDate>2021-09-26T17:50:22.937Z</CreationDate>
+            <ModificationDate>2021-09-26T17:50:22.937Z</ModificationDate>
+            <Category>unknown</Category>
+            <Status>unknown</Status>
+        </Metadata>
+        <AnnotationFile URL="" type="EAF">urn:nl-mpi-tools-elan-eaf:6cdb39b2-70d4-4d30-99dd-de1a3eec02a7#t=25.049/25.393;tier=pos@osg1948m</AnnotationFile>
+        <Message>СЧИТАЙ ЧТО можно также расценить как вводное слово (particle), однако я остановилась на варианте, что СЧИТАЙ, ЧТО...=начало придаточного предложения (сочетание verb и conj)</Message>
+    </ColTime>
+    <ColTime ColTimeMessageID="972d8525-8e3e-425a-95ff-64c8b7c70a81" URL="">
+        <Metadata>
+            <Initials/>
+            <ThreadID/>
+            <Sender/>
+            <Recipient/>
+            <CreationDate>2021-09-26T17:54:32.897Z</CreationDate>
+            <ModificationDate>2021-09-26T17:54:32.897Z</ModificationDate>
+            <Category>unknown</Category>
+            <Status>unknown</Status>
+        </Metadata>
+        <AnnotationFile URL="" type="EAF">urn:nl-mpi-tools-elan-eaf:6cdb39b2-70d4-4d30-99dd-de1a3eec02a7#t=29.636/30.296;tier=pos@osg1948m</AnnotationFile>
+        <Message>ОПРЕДЕЛЁННАЯ можно считать сущ-ым (n), так как можно заменить его на ДЕТАЛИ (=&gt;"есть, конечно, не те детали, ошбики есть определенные"). Можно также считать, что говорящий не закончил фразу определяемым существительным. Тогда ОПРЕДЕЛЁННАЯ считаем прилагательным (adj)</Message>
+    </ColTime>
+    <ColTime ColTimeMessageID="eef9d19b-c5e7-4768-a4dd-aa8e1fded945" URL="">
+        <Metadata>
+            <Initials/>
+            <ThreadID/>
+            <Sender/>
+            <Recipient/>
+            <CreationDate>2021-09-26T17:57:54.847Z</CreationDate>
+            <ModificationDate>2021-09-26T17:57:54.847Z</ModificationDate>
+            <Category>unknown</Category>
+            <Status>unknown</Status>
+        </Metadata>
+        <AnnotationFile URL="" type="EAF">urn:nl-mpi-tools-elan-eaf:6cdb39b2-70d4-4d30-99dd-de1a3eec02a7#t=57.084/57.392;tier=pos@osg1948m</AnnotationFile>
+        <Message>МНОГО можно считать наречием (adv), можно считать числительным (n). Так как МНОГО в данном предложении играет роль сказуемого, его лучше обозначить как глагол (v)</Message>
+    </ColTime>
+    <ColTime ColTimeMessageID="b1db97fa-1641-47c0-9ea1-0c1a2e8e8250" URL="">
+        <Metadata>
+            <Initials/>
+            <ThreadID/>
+            <Sender/>
+            <Recipient/>
+            <CreationDate>2021-09-26T18:05:44.760Z</CreationDate>
+            <ModificationDate>2021-09-26T18:05:44.760Z</ModificationDate>
+            <Category>unknown</Category>
+            <Status>unknown</Status>
+        </Metadata>
+        <AnnotationFile URL="" type="EAF">urn:nl-mpi-tools-elan-eaf:6cdb39b2-70d4-4d30-99dd-de1a3eec02a7#t=66.075/66.428;tier=pos@osg1948m</AnnotationFile>
+        <Message>МНОГО в данном контексте можно определить как наречие (adv), числительное (n) или прилагательное (adj). Последний варинт наиболее подходящий, так как МНОГО в этом предложении выполняет роль определяемого.</Message>
+    </ColTime>
+    <ColTime ColTimeMessageID="5e8beabe-2702-4909-a312-8cf2c3dbf4c5" URL="">
+        <Metadata>
+            <Initials/>
+            <ThreadID/>
+            <Sender/>
+            <Recipient/>
+            <CreationDate>2021-09-26T18:09:22.535Z</CreationDate>
+            <ModificationDate>2021-09-26T18:09:22.535Z</ModificationDate>
+            <Category>unknown</Category>
+            <Status>unknown</Status>
+        </Metadata>
+        <AnnotationFile URL="" type="EAF">urn:nl-mpi-tools-elan-eaf:6cdb39b2-70d4-4d30-99dd-de1a3eec02a7#t=67.848/68.192;tier=pos@osg1948m</AnnotationFile>
+        <Message>КОТОРЫЙ можно определить как determiner, как местоимение (pronoun) или как союзное слово (conj). Так как ELAN использует английские части речи, determiner подходит лучше всего.</Message>
+    </ColTime>
+    <ColTime ColTimeMessageID="c503c56d-55d0-4949-a920-70393d4f6290" URL="">
+        <Metadata>
+            <Initials/>
+            <ThreadID/>
+            <Sender/>
+            <Recipient/>
+            <CreationDate>2021-09-26T18:34:52.499Z</CreationDate>
+            <ModificationDate>2021-09-26T18:35:04.107Z</ModificationDate>
+            <Category>unknown</Category>
+            <Status>unknown</Status>
+        </Metadata>
+        <AnnotationFile URL="" type="EAF">urn:nl-mpi-tools-elan-eaf:6cdb39b2-70d4-4d30-99dd-de1a3eec02a7#t=73.271/73.572;tier=words@osg1948m</AnnotationFile>
+        <Message>ВСЕМИ - это русское местоимение (pronoun), однако, так как ELAN использует английскую терминологию, лучше определить ВСЕ как ALL (determiner)</Message>
+    </ColTime>
+    <ColTime ColTimeMessageID="3628a53a-3989-4e8c-9ec3-14a9f0965268" URL="">
+        <Metadata>
+            <Initials/>
+            <ThreadID/>
+            <Sender/>
+            <Recipient/>
+            <CreationDate>2021-09-26T18:10:51.338Z</CreationDate>
+            <ModificationDate>2021-09-26T18:10:59.458Z</ModificationDate>
+            <Category>unknown</Category>
+            <Status>unknown</Status>
+        </Metadata>
+        <AnnotationFile URL="" type="EAF">urn:nl-mpi-tools-elan-eaf:6cdb39b2-70d4-4d30-99dd-de1a3eec02a7#t=73.572/73.874;tier=pos@osg1948m</AnnotationFile>
+        <Message>ЭТИМИ можно считать как determiner, так и местоимением (pronoun).  Так как ELAN использует английские части речи, determiner подходит лучше всего.</Message>
+    </ColTime>
+    <ColTime ColTimeMessageID="66e0bb41-fabe-4b88-8182-7b1e4d6f5eba" URL="">
+        <Metadata>
+            <Initials/>
+            <ThreadID/>
+            <Sender/>
+            <Recipient/>
+            <CreationDate>2021-09-26T18:13:03.950Z</CreationDate>
+            <ModificationDate>2021-09-26T18:37:43.353Z</ModificationDate>
+            <Category>unknown</Category>
+            <Status>unknown</Status>
+        </Metadata>
+        <AnnotationFile URL="" type="EAF">urn:nl-mpi-tools-elan-eaf:6cdb39b2-70d4-4d30-99dd-de1a3eec02a7#t=77.521/77.865;tier=pos@osg1948m</AnnotationFile>
+        <Message>ВСЁ в России считают местоимением (pronoun), но, так как ELAN использует английские термины, лучше определить ВСЁ как determiner</Message>
+    </ColTime>
+</ColTimeList>
