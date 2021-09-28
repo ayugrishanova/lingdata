@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ColTimeList xmlns="http://mpi.nl/tools/coltime"
     xmlns:NS1="http://www.w3.org/2001/XMLSchema-instance" NS1:schemaLocation="http://mpi.nl/tools/coltime http://www.mpi.nl/tools/coltime/schema.xsd">
+    <ColTime ColTimeMessageID="03c325af-4ba6-4789-b564-e27a81645091" URL="">
+        <Metadata>
+            <Initials/>
+            <ThreadID/>
+            <Sender/>
+            <Recipient/>
+            <CreationDate>2021-09-28T08:19:04.879Z</CreationDate>
+            <ModificationDate>2021-09-28T08:19:04.879Z</ModificationDate>
+            <Category>unknown</Category>
+            <Status>unknown</Status>
+        </Metadata>
+        <AnnotationFile URL="" type="EAF">urn:nl-mpi-tools-elan-eaf:6cdb39b2-70d4-4d30-99dd-de1a3eec02a7#t=0.030/0.264;tier=pos@osg1948m</AnnotationFile>
+        <Message>ЭТО может быть determiner или demonstrative pronoun. Так как в данном случае мы не указываем на определенный объект, а обращаемся к чему-то общему (т.е. не "Это задание", а "Это"), лучше выбрать dem.pronoun</Message>
+    </ColTime>
     <ColTime ColTimeMessageID="b2aabeb2-cffa-4a64-aa7c-54e3e6d306ac" URL="">
         <Metadata>
             <Initials/>
