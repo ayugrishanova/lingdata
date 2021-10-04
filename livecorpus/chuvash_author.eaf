@@ -1,0 +1,2458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-09-21T19:20:18+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/Ann/Documents/chuvash-author/chuvash_author.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./chuvash_author.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:6cdb39b2-70d4-4d30-99dd-de1a3eec02a7</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">483</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="30"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="4040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="4880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="6660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="6850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="11610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="12650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="13160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="14490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="16605"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="16605"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="16833"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="17542"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="18992"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="19442"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="20742"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="21149"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="21920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="22253"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="23600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="23961"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="25720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="26485"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="27962"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="28010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="28090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="28125"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="28540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="28610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="30360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="30830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="33460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="34140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="36882"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="37946"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="38362"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="38730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="38822"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="39597"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="42711"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="43477"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="47020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="47044"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="47650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="47933"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="48500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="48844"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="49360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="50440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="51365"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="51536"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="51842"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="52419"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="52533"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="53249"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="54905"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="55223"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="55552"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="56604"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="59942"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="60310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="60313"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="60449"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="61037"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="61592"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="66511"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="66918"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="69709"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="69728"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="69728"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="72581"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="72581"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="73157"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="74384"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="75406"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="77989"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="78391"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="78494"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="78970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="78984"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="79301"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="79865"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="80000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="80760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="81697"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="84034"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="84287"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="84816"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="85475"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="89371"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="ayugrishanova" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@osg1948m" TIER_ID="text@osg1948m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>это я просил / директором школы мы до... эээ / дружим //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>этой школы  Татьяна Павловна просила /</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>ммм.. / убедительно просила для того чтобы написать / и посидеть в архивах и поз...написать //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>к сто /</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>ээ  семидесятилетию вот эту книжку //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>долго мы / занимались //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>три года поработали //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>в ар... в архивах очень многое в архивах сидели / эта книга вышла считай что.. /</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts25">
+                <ANNOTATION_VALUE>книга / неплохая //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>ну-н... /</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>есть / конечно не то определённая //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>ошибки есть определённая ну / думаю /</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts37">
+                <ANNOTATION_VALUE>эээ для читателя они незаметны / для меня сегодня #нрзб# как автору / всегда видно //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>врядли //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts48" TIME_SLOT_REF2="ts49">
+                <ANNOTATION_VALUE>врядли / потому что... //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts51">
+                <ANNOTATION_VALUE>да //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts52" TIME_SLOT_REF2="ts53">
+                <ANNOTATION_VALUE>да / да //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>тут... /</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>очень много материала / связанные с архивными документами //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>потому что... /</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>здесь и первоученики / здесь первошкола / здесь и фотокарточка очень много-ж ... //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>эээ человеку который сегодня эээ /</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts71">
+                <ANNOTATION_VALUE>работает / эээ / уч...учителем школы /</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>за всеми этими конечно /</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>не уследить и не / эээ трудно это всё / собрать //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts81">
+                <ANNOTATION_VALUE>а мн... //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts82" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>время нужно / а я... /</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE>как свободный / пенсионер / в это время //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE>я говорю /</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE>что почти три года ходил ежедневно / еже... / почти ежедневно //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="ayugrishanova" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@iii1965m" TIER_ID="text@iii1965m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>ага //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>ага / в архивах сидели? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts21">
+                <ANNOTATION_VALUE>ага //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>ага //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>автору это всё видно //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36"
+                TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>да //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>ну / как думаете вот / может / эээ / такого эээ /</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts43">
+                <ANNOTATION_VALUE>характера книгу написать учитель / школы? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>вот //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>к сожалению #нрзб# / у учителя времени нету / на это дело //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41"
+                TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>исследователь все-таки должен быть / да? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42"
+                TIME_SLOT_REF1="ts60" TIME_SLOT_REF2="ts61">
+                <ANNOTATION_VALUE>#соглашается#</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a122"
+                TIME_SLOT_REF1="ts70" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43"
+                TIME_SLOT_REF1="ts76" TIME_SLOT_REF2="ts77">
+                <ANNOTATION_VALUE>да //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44"
+                TIME_SLOT_REF1="ts80" TIME_SLOT_REF2="ts83">
+                <ANNOTATION_VALUE>время нужно для этого //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="ayugrishanova" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="text@osg1948m"
+        PARTICIPANT="@osg1948m" TIER_ID="transl@osg1948m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a45" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>I asked the school's headmistress that... erm we are friends.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a46" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>That school's Tatyana Pavlovna asked me</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a47" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>erm... she persuasively asked me to write and to spend time in the archives and to... to write this book</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a48" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>for one hundred</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a49" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>erm and seventy years anniversary.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a50" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>We had spent much time,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a51" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>we had worked for three years.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a52" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>The ar.. we had spent much time in the archives. That book turned out... </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a53" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>that book turned out all right.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a54" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>Well... </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a55" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>There sure are certain...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a56" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE> there sure are certain mistakes. Well, I think</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a57" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>erm they are imperceptible for the reader. For me these days #unclear# as an author, I always notice them.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a58" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>I doubt that.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a59" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>I doubt that because...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a60" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>Yes,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a61" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>yes, yes.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a62" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>There...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a63" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>is a lot of content connected to archived documents</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a64" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>because</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a65" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>there are the first students, there is the first school, there are a lot of photographs...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a66" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>Erm a person who erm </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a67" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>works as erm as a school teacher today</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a68" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>surely can not keep up</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a69" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>with all of this and not erm... all this is difficult to collect...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a70" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>As for...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a71" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>It takes time, and I...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a72" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>as a free retiree, during this time...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a73" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>I'm saying...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a74" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>that for three years I went there every day, every... almost every day.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="ayugrishanova" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="text@iii1965m"
+        PARTICIPANT="@iii1965m" TIER_ID="transl@iii1965m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a75" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>yeah //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a76" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>yeah / had you spent time in the archives? //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a88" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>yeah //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a77" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>yeah //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a78" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>an author notices everything //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a79" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>yeah //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a80" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>well / what do you think / erm / can / erm /</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a81" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>a school / teacher write a book of this character? //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a82" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>right //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a83" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE>unfortunately #unclear# / a teacher does not have time / for such matter //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a84" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE>in the end of a day it should be a researcher / right? //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a85" ANNOTATION_REF="a42">
+                <ANNOTATION_VALUE>#agrees#</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a86" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE>yes //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a87" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE>all this takes time //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="ayugrishanova" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="phonetic_transcription"
+        PARENT_REF="text@osg1948m" PARTICIPANT="@osg1948m" TIER_ID="spokencorpora@osg1948m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a89" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>Это я просил  ∙∙∙∙(1.5) ээ /\директором школы /мы ə до= ээ ∙∙(0.8) ‖ /дружим / ~</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a90" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>∙∙(0.9) Этой школы /Татьяна ↑ Павловна/ просила=</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a91" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>∙∙∙∙(1.2) ээ убедительно просила /для того чтобы написать/\ и ↑посидеть в /\архивах и поз= ‖написать,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a93" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>∙∙(1.0) к сто-о</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a94" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>∙∙∙(1.5) ээ /семидесятилетию/ вот эту\ книжку~</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a95" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>/До-олго/ мы ə ∙∙(0.5)занимались\, </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a96" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>∙∙(0.7) три года /\поработали~</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a97" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>В ар= ‖в архивах /очень многое в архивах сидели /эта книга вышла\ считай что,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a98" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>∙∙∙(1.2)книга h/ ∙∙(0.3) \неплохая\.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a99" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>∙∙(0.6)Ну-н=</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a100" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>∙∙(0.3) /есть/ конечно не то /\определенная=</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a101" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>∙∙(0.5) /ошибки есть\ определенная /ну/ ∙∙(0.2) думаю,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a102" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>∙∙∙∙(1.2) ээ для /читателя \они незаметны. Для /меня/ сегодня #нрзб# как /автору\ всегда видно\.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a103" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>\Врядли h\.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a104" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>∙∙∙∙(2.3) Врядли h\ потому что=/</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a105" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>∙∙(0.9) \да\,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a106" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>∙∙(0.3) \да, да\ .</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a107" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>Тут/=</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a108" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>∙∙∙(1.2) /\h очень много материала\ /h связанные с /\архивными документами.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a109" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>∙∙(0.2)/Потому что.../</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a110" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>∙∙(0.6) здесь и /\первоученики-и\, здесь \первошкола\, здесь и /фотокарточка\ очень много-ж\.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="ayugrishanova" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="phonetic_transcription"
+        PARENT_REF="text@iii1965m" PARTICIPANT="@iii1965m" TIER_ID="spokencorpora@iii1965m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a111" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>\Угу.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a112" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>\Угу, в /архивах\ сидели?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a113" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>\Угу.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a114" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>\Угу.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a115" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>/Автору /это все видно\.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a116" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>\Угу.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a117" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>Ну\ как /думаете вот/ может ээ(0.3) такого ээ(0.5)...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a118" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>∙∙∙(0.9) характера /\книгу написать /учитель\ {ЧМОКАНЬЕ} ∙∙∙(1.2) школы?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a119" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>\Вот.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a120" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE>/\К сожалению/ #нрзб# ∙∙(0.8) у учителя /времени нету/ ∙∙(0.1) на это дело\ ~</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a121" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE>∙∙∙(1.1) /Исследователь/ все-таки должен быть\ /\да?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trstt"
+        PARENT_REF="transl@osg1948m" PARTICIPANT="@osg1948m" TIER_ID="trstt">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a123" ANNOTATION_REF="a45">
+                <ANNOTATION_VALUE>I</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a124" ANNOTATION_REF="a45" PREVIOUS_ANNOTATION="a123">
+                <ANNOTATION_VALUE>asked</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a125" ANNOTATION_REF="a45" PREVIOUS_ANNOTATION="a124">
+                <ANNOTATION_VALUE>the</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a126" ANNOTATION_REF="a45" PREVIOUS_ANNOTATION="a125">
+                <ANNOTATION_VALUE>school's</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a127" ANNOTATION_REF="a45" PREVIOUS_ANNOTATION="a126">
+                <ANNOTATION_VALUE>headmistress</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a128" ANNOTATION_REF="a45" PREVIOUS_ANNOTATION="a127">
+                <ANNOTATION_VALUE>that</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a129" ANNOTATION_REF="a45" PREVIOUS_ANNOTATION="a128">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a130" ANNOTATION_REF="a45" PREVIOUS_ANNOTATION="a129">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a131" ANNOTATION_REF="a45" PREVIOUS_ANNOTATION="a130">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a132" ANNOTATION_REF="a45" PREVIOUS_ANNOTATION="a131">
+                <ANNOTATION_VALUE>erm</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a133" ANNOTATION_REF="a45" PREVIOUS_ANNOTATION="a132">
+                <ANNOTATION_VALUE>we</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a134" ANNOTATION_REF="a45" PREVIOUS_ANNOTATION="a133">
+                <ANNOTATION_VALUE>are</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a135" ANNOTATION_REF="a45" PREVIOUS_ANNOTATION="a134">
+                <ANNOTATION_VALUE>friends</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a136" ANNOTATION_REF="a45" PREVIOUS_ANNOTATION="a135">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a137" ANNOTATION_REF="a46">
+                <ANNOTATION_VALUE>That</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a138" ANNOTATION_REF="a46" PREVIOUS_ANNOTATION="a137">
+                <ANNOTATION_VALUE>school's</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a139" ANNOTATION_REF="a46" PREVIOUS_ANNOTATION="a138">
+                <ANNOTATION_VALUE>Tatyana</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a140" ANNOTATION_REF="a46" PREVIOUS_ANNOTATION="a139">
+                <ANNOTATION_VALUE>Pavlovna</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a141" ANNOTATION_REF="a46" PREVIOUS_ANNOTATION="a140">
+                <ANNOTATION_VALUE>asked</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a142" ANNOTATION_REF="a46" PREVIOUS_ANNOTATION="a141">
+                <ANNOTATION_VALUE>me</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a143" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE>erm</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a144" ANNOTATION_REF="a47" PREVIOUS_ANNOTATION="a143">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a145" ANNOTATION_REF="a47" PREVIOUS_ANNOTATION="a144">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a146" ANNOTATION_REF="a47" PREVIOUS_ANNOTATION="a145">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a147" ANNOTATION_REF="a47" PREVIOUS_ANNOTATION="a146">
+                <ANNOTATION_VALUE>she</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a148" ANNOTATION_REF="a47" PREVIOUS_ANNOTATION="a147">
+                <ANNOTATION_VALUE>persuasively</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a149" ANNOTATION_REF="a47" PREVIOUS_ANNOTATION="a148">
+                <ANNOTATION_VALUE>asked</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a150" ANNOTATION_REF="a47" PREVIOUS_ANNOTATION="a149">
+                <ANNOTATION_VALUE>me</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a151" ANNOTATION_REF="a47" PREVIOUS_ANNOTATION="a150">
+                <ANNOTATION_VALUE>to</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a152" ANNOTATION_REF="a47" PREVIOUS_ANNOTATION="a151">
+                <ANNOTATION_VALUE>write</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a153" ANNOTATION_REF="a47" PREVIOUS_ANNOTATION="a152">
+                <ANNOTATION_VALUE>and</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a154" ANNOTATION_REF="a47" PREVIOUS_ANNOTATION="a153">
+                <ANNOTATION_VALUE>to</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a155" ANNOTATION_REF="a47" PREVIOUS_ANNOTATION="a154">
+                <ANNOTATION_VALUE>spend</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a156" ANNOTATION_REF="a47" PREVIOUS_ANNOTATION="a155">
+                <ANNOTATION_VALUE>time</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a157" ANNOTATION_REF="a47" PREVIOUS_ANNOTATION="a156">
+                <ANNOTATION_VALUE>in</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a158" ANNOTATION_REF="a47" PREVIOUS_ANNOTATION="a157">
+                <ANNOTATION_VALUE>the</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a159" ANNOTATION_REF="a47" PREVIOUS_ANNOTATION="a158">
+                <ANNOTATION_VALUE>archives</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a160" ANNOTATION_REF="a47" PREVIOUS_ANNOTATION="a159">
+                <ANNOTATION_VALUE>and</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a161" ANNOTATION_REF="a47" PREVIOUS_ANNOTATION="a160">
+                <ANNOTATION_VALUE>to</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a162" ANNOTATION_REF="a47" PREVIOUS_ANNOTATION="a161">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a163" ANNOTATION_REF="a47" PREVIOUS_ANNOTATION="a162">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a164" ANNOTATION_REF="a47" PREVIOUS_ANNOTATION="a163">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a165" ANNOTATION_REF="a47" PREVIOUS_ANNOTATION="a164">
+                <ANNOTATION_VALUE>to</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a166" ANNOTATION_REF="a47" PREVIOUS_ANNOTATION="a165">
+                <ANNOTATION_VALUE>write</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a167" ANNOTATION_REF="a47" PREVIOUS_ANNOTATION="a166">
+                <ANNOTATION_VALUE>this</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a168" ANNOTATION_REF="a47" PREVIOUS_ANNOTATION="a167">
+                <ANNOTATION_VALUE>book</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a169" ANNOTATION_REF="a48">
+                <ANNOTATION_VALUE>for</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a170" ANNOTATION_REF="a48" PREVIOUS_ANNOTATION="a169">
+                <ANNOTATION_VALUE>one</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a171" ANNOTATION_REF="a48" PREVIOUS_ANNOTATION="a170">
+                <ANNOTATION_VALUE>hundred</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a172" ANNOTATION_REF="a49">
+                <ANNOTATION_VALUE>erm</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a173" ANNOTATION_REF="a49" PREVIOUS_ANNOTATION="a172">
+                <ANNOTATION_VALUE>and</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a174" ANNOTATION_REF="a49" PREVIOUS_ANNOTATION="a173">
+                <ANNOTATION_VALUE>seventy</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a175" ANNOTATION_REF="a49" PREVIOUS_ANNOTATION="a174">
+                <ANNOTATION_VALUE>years</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a176" ANNOTATION_REF="a49" PREVIOUS_ANNOTATION="a175">
+                <ANNOTATION_VALUE>anniversary</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a177" ANNOTATION_REF="a49" PREVIOUS_ANNOTATION="a176">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a178" ANNOTATION_REF="a50">
+                <ANNOTATION_VALUE>We</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a179" ANNOTATION_REF="a50" PREVIOUS_ANNOTATION="a178">
+                <ANNOTATION_VALUE>had</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a180" ANNOTATION_REF="a50" PREVIOUS_ANNOTATION="a179">
+                <ANNOTATION_VALUE>spent</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a181" ANNOTATION_REF="a50" PREVIOUS_ANNOTATION="a180">
+                <ANNOTATION_VALUE>much</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a182" ANNOTATION_REF="a50" PREVIOUS_ANNOTATION="a181">
+                <ANNOTATION_VALUE>time</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a183" ANNOTATION_REF="a50" PREVIOUS_ANNOTATION="a182">
+                <ANNOTATION_VALUE>,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a184" ANNOTATION_REF="a51">
+                <ANNOTATION_VALUE>we</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a185" ANNOTATION_REF="a51" PREVIOUS_ANNOTATION="a184">
+                <ANNOTATION_VALUE>had</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a186" ANNOTATION_REF="a51" PREVIOUS_ANNOTATION="a185">
+                <ANNOTATION_VALUE>worked</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a187" ANNOTATION_REF="a51" PREVIOUS_ANNOTATION="a186">
+                <ANNOTATION_VALUE>for</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a188" ANNOTATION_REF="a51" PREVIOUS_ANNOTATION="a187">
+                <ANNOTATION_VALUE>three</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a189" ANNOTATION_REF="a51" PREVIOUS_ANNOTATION="a188">
+                <ANNOTATION_VALUE>years</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a190" ANNOTATION_REF="a51" PREVIOUS_ANNOTATION="a189">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a191" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE>The</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a192" ANNOTATION_REF="a52" PREVIOUS_ANNOTATION="a191">
+                <ANNOTATION_VALUE>ar</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a193" ANNOTATION_REF="a52" PREVIOUS_ANNOTATION="a192">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a194" ANNOTATION_REF="a52" PREVIOUS_ANNOTATION="a193">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a195" ANNOTATION_REF="a52" PREVIOUS_ANNOTATION="a194">
+                <ANNOTATION_VALUE>we</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a196" ANNOTATION_REF="a52" PREVIOUS_ANNOTATION="a195">
+                <ANNOTATION_VALUE>had</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a197" ANNOTATION_REF="a52" PREVIOUS_ANNOTATION="a196">
+                <ANNOTATION_VALUE>spent</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a198" ANNOTATION_REF="a52" PREVIOUS_ANNOTATION="a197">
+                <ANNOTATION_VALUE>much</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a199" ANNOTATION_REF="a52" PREVIOUS_ANNOTATION="a198">
+                <ANNOTATION_VALUE>time</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a200" ANNOTATION_REF="a52" PREVIOUS_ANNOTATION="a199">
+                <ANNOTATION_VALUE>in</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a201" ANNOTATION_REF="a52" PREVIOUS_ANNOTATION="a200">
+                <ANNOTATION_VALUE>the</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a202" ANNOTATION_REF="a52" PREVIOUS_ANNOTATION="a201">
+                <ANNOTATION_VALUE>archives</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a203" ANNOTATION_REF="a52" PREVIOUS_ANNOTATION="a202">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a204" ANNOTATION_REF="a52" PREVIOUS_ANNOTATION="a203">
+                <ANNOTATION_VALUE>That</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a205" ANNOTATION_REF="a52" PREVIOUS_ANNOTATION="a204">
+                <ANNOTATION_VALUE>book</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a206" ANNOTATION_REF="a52" PREVIOUS_ANNOTATION="a205">
+                <ANNOTATION_VALUE>turned</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a207" ANNOTATION_REF="a52" PREVIOUS_ANNOTATION="a206">
+                <ANNOTATION_VALUE>out</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a208" ANNOTATION_REF="a52" PREVIOUS_ANNOTATION="a207">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a209" ANNOTATION_REF="a52" PREVIOUS_ANNOTATION="a208">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a210" ANNOTATION_REF="a52" PREVIOUS_ANNOTATION="a209">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a211" ANNOTATION_REF="a53">
+                <ANNOTATION_VALUE>that</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a212" ANNOTATION_REF="a53" PREVIOUS_ANNOTATION="a211">
+                <ANNOTATION_VALUE>book</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a213" ANNOTATION_REF="a53" PREVIOUS_ANNOTATION="a212">
+                <ANNOTATION_VALUE>turned</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a214" ANNOTATION_REF="a53" PREVIOUS_ANNOTATION="a213">
+                <ANNOTATION_VALUE>out</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a215" ANNOTATION_REF="a53" PREVIOUS_ANNOTATION="a214">
+                <ANNOTATION_VALUE>all</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a216" ANNOTATION_REF="a53" PREVIOUS_ANNOTATION="a215">
+                <ANNOTATION_VALUE>right</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a217" ANNOTATION_REF="a53" PREVIOUS_ANNOTATION="a216">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a218" ANNOTATION_REF="a54">
+                <ANNOTATION_VALUE>Well</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a219" ANNOTATION_REF="a54" PREVIOUS_ANNOTATION="a218">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a220" ANNOTATION_REF="a54" PREVIOUS_ANNOTATION="a219">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a221" ANNOTATION_REF="a54" PREVIOUS_ANNOTATION="a220">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a222" ANNOTATION_REF="a55">
+                <ANNOTATION_VALUE>There</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a223" ANNOTATION_REF="a55" PREVIOUS_ANNOTATION="a222">
+                <ANNOTATION_VALUE>sure</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a224" ANNOTATION_REF="a55" PREVIOUS_ANNOTATION="a223">
+                <ANNOTATION_VALUE>are</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a225" ANNOTATION_REF="a55" PREVIOUS_ANNOTATION="a224">
+                <ANNOTATION_VALUE>certain</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a226" ANNOTATION_REF="a55" PREVIOUS_ANNOTATION="a225">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a227" ANNOTATION_REF="a55" PREVIOUS_ANNOTATION="a226">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a228" ANNOTATION_REF="a55" PREVIOUS_ANNOTATION="a227">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a229" ANNOTATION_REF="a56">
+                <ANNOTATION_VALUE>there</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a230" ANNOTATION_REF="a56" PREVIOUS_ANNOTATION="a229">
+                <ANNOTATION_VALUE>sure</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a231" ANNOTATION_REF="a56" PREVIOUS_ANNOTATION="a230">
+                <ANNOTATION_VALUE>are</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a232" ANNOTATION_REF="a56" PREVIOUS_ANNOTATION="a231">
+                <ANNOTATION_VALUE>certain</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a233" ANNOTATION_REF="a56" PREVIOUS_ANNOTATION="a232">
+                <ANNOTATION_VALUE>mistakes</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a234" ANNOTATION_REF="a56" PREVIOUS_ANNOTATION="a233">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a235" ANNOTATION_REF="a56" PREVIOUS_ANNOTATION="a234">
+                <ANNOTATION_VALUE>Well</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a236" ANNOTATION_REF="a56" PREVIOUS_ANNOTATION="a235">
+                <ANNOTATION_VALUE>,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a237" ANNOTATION_REF="a56" PREVIOUS_ANNOTATION="a236">
+                <ANNOTATION_VALUE>I</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a238" ANNOTATION_REF="a56" PREVIOUS_ANNOTATION="a237">
+                <ANNOTATION_VALUE>think</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a239" ANNOTATION_REF="a57">
+                <ANNOTATION_VALUE>erm</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a240" ANNOTATION_REF="a57" PREVIOUS_ANNOTATION="a239">
+                <ANNOTATION_VALUE>they</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a241" ANNOTATION_REF="a57" PREVIOUS_ANNOTATION="a240">
+                <ANNOTATION_VALUE>are</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a242" ANNOTATION_REF="a57" PREVIOUS_ANNOTATION="a241">
+                <ANNOTATION_VALUE>imperceptible</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a243" ANNOTATION_REF="a57" PREVIOUS_ANNOTATION="a242">
+                <ANNOTATION_VALUE>for</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a244" ANNOTATION_REF="a57" PREVIOUS_ANNOTATION="a243">
+                <ANNOTATION_VALUE>the</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a245" ANNOTATION_REF="a57" PREVIOUS_ANNOTATION="a244">
+                <ANNOTATION_VALUE>reader</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a246" ANNOTATION_REF="a57" PREVIOUS_ANNOTATION="a245">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a247" ANNOTATION_REF="a57" PREVIOUS_ANNOTATION="a246">
+                <ANNOTATION_VALUE>For</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a248" ANNOTATION_REF="a57" PREVIOUS_ANNOTATION="a247">
+                <ANNOTATION_VALUE>me</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a249" ANNOTATION_REF="a57" PREVIOUS_ANNOTATION="a248">
+                <ANNOTATION_VALUE>these</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a250" ANNOTATION_REF="a57" PREVIOUS_ANNOTATION="a249">
+                <ANNOTATION_VALUE>days</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a251" ANNOTATION_REF="a57" PREVIOUS_ANNOTATION="a250">
+                <ANNOTATION_VALUE>#unclear#</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a252" ANNOTATION_REF="a57" PREVIOUS_ANNOTATION="a251">
+                <ANNOTATION_VALUE>as</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a253" ANNOTATION_REF="a57" PREVIOUS_ANNOTATION="a252">
+                <ANNOTATION_VALUE>an</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a254" ANNOTATION_REF="a57" PREVIOUS_ANNOTATION="a253">
+                <ANNOTATION_VALUE>author</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a255" ANNOTATION_REF="a57" PREVIOUS_ANNOTATION="a254">
+                <ANNOTATION_VALUE>,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a256" ANNOTATION_REF="a57" PREVIOUS_ANNOTATION="a255">
+                <ANNOTATION_VALUE>I</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a257" ANNOTATION_REF="a57" PREVIOUS_ANNOTATION="a256">
+                <ANNOTATION_VALUE>always</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a258" ANNOTATION_REF="a57" PREVIOUS_ANNOTATION="a257">
+                <ANNOTATION_VALUE>notice</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a259" ANNOTATION_REF="a57" PREVIOUS_ANNOTATION="a258">
+                <ANNOTATION_VALUE>them</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a260" ANNOTATION_REF="a57" PREVIOUS_ANNOTATION="a259">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a261" ANNOTATION_REF="a58">
+                <ANNOTATION_VALUE>I</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a262" ANNOTATION_REF="a58" PREVIOUS_ANNOTATION="a261">
+                <ANNOTATION_VALUE>doubt</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a263" ANNOTATION_REF="a58" PREVIOUS_ANNOTATION="a262">
+                <ANNOTATION_VALUE>that</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a264" ANNOTATION_REF="a58" PREVIOUS_ANNOTATION="a263">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a265" ANNOTATION_REF="a59">
+                <ANNOTATION_VALUE>I</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a266" ANNOTATION_REF="a59" PREVIOUS_ANNOTATION="a265">
+                <ANNOTATION_VALUE>doubt</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a267" ANNOTATION_REF="a59" PREVIOUS_ANNOTATION="a266">
+                <ANNOTATION_VALUE>that</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a268" ANNOTATION_REF="a59" PREVIOUS_ANNOTATION="a267">
+                <ANNOTATION_VALUE>because</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a269" ANNOTATION_REF="a59" PREVIOUS_ANNOTATION="a268">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a270" ANNOTATION_REF="a59" PREVIOUS_ANNOTATION="a269">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a271" ANNOTATION_REF="a59" PREVIOUS_ANNOTATION="a270">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a272" ANNOTATION_REF="a60">
+                <ANNOTATION_VALUE>Yes</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a273" ANNOTATION_REF="a60" PREVIOUS_ANNOTATION="a272">
+                <ANNOTATION_VALUE>,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a274" ANNOTATION_REF="a61">
+                <ANNOTATION_VALUE>yes</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a275" ANNOTATION_REF="a61" PREVIOUS_ANNOTATION="a274">
+                <ANNOTATION_VALUE>,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a276" ANNOTATION_REF="a61" PREVIOUS_ANNOTATION="a275">
+                <ANNOTATION_VALUE>yes</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a277" ANNOTATION_REF="a61" PREVIOUS_ANNOTATION="a276">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a278" ANNOTATION_REF="a62">
+                <ANNOTATION_VALUE>There</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a279" ANNOTATION_REF="a62" PREVIOUS_ANNOTATION="a278">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a280" ANNOTATION_REF="a62" PREVIOUS_ANNOTATION="a279">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a281" ANNOTATION_REF="a62" PREVIOUS_ANNOTATION="a280">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a282" ANNOTATION_REF="a63">
+                <ANNOTATION_VALUE>is</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a283" ANNOTATION_REF="a63" PREVIOUS_ANNOTATION="a282">
+                <ANNOTATION_VALUE>a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a284" ANNOTATION_REF="a63" PREVIOUS_ANNOTATION="a283">
+                <ANNOTATION_VALUE>lot</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a285" ANNOTATION_REF="a63" PREVIOUS_ANNOTATION="a284">
+                <ANNOTATION_VALUE>of</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a286" ANNOTATION_REF="a63" PREVIOUS_ANNOTATION="a285">
+                <ANNOTATION_VALUE>content</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a287" ANNOTATION_REF="a63" PREVIOUS_ANNOTATION="a286">
+                <ANNOTATION_VALUE>connected</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a288" ANNOTATION_REF="a63" PREVIOUS_ANNOTATION="a287">
+                <ANNOTATION_VALUE>to</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a289" ANNOTATION_REF="a63" PREVIOUS_ANNOTATION="a288">
+                <ANNOTATION_VALUE>archived</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a290" ANNOTATION_REF="a63" PREVIOUS_ANNOTATION="a289">
+                <ANNOTATION_VALUE>documents</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a291" ANNOTATION_REF="a64">
+                <ANNOTATION_VALUE>because</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a292" ANNOTATION_REF="a65">
+                <ANNOTATION_VALUE>there</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a293" ANNOTATION_REF="a65" PREVIOUS_ANNOTATION="a292">
+                <ANNOTATION_VALUE>are</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a294" ANNOTATION_REF="a65" PREVIOUS_ANNOTATION="a293">
+                <ANNOTATION_VALUE>the</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a295" ANNOTATION_REF="a65" PREVIOUS_ANNOTATION="a294">
+                <ANNOTATION_VALUE>first</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a296" ANNOTATION_REF="a65" PREVIOUS_ANNOTATION="a295">
+                <ANNOTATION_VALUE>students</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a297" ANNOTATION_REF="a65" PREVIOUS_ANNOTATION="a296">
+                <ANNOTATION_VALUE>,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a298" ANNOTATION_REF="a65" PREVIOUS_ANNOTATION="a297">
+                <ANNOTATION_VALUE>there</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a299" ANNOTATION_REF="a65" PREVIOUS_ANNOTATION="a298">
+                <ANNOTATION_VALUE>is</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a300" ANNOTATION_REF="a65" PREVIOUS_ANNOTATION="a299">
+                <ANNOTATION_VALUE>the</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a301" ANNOTATION_REF="a65" PREVIOUS_ANNOTATION="a300">
+                <ANNOTATION_VALUE>first</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a302" ANNOTATION_REF="a65" PREVIOUS_ANNOTATION="a301">
+                <ANNOTATION_VALUE>school</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a303" ANNOTATION_REF="a65" PREVIOUS_ANNOTATION="a302">
+                <ANNOTATION_VALUE>,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a304" ANNOTATION_REF="a65" PREVIOUS_ANNOTATION="a303">
+                <ANNOTATION_VALUE>there</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a305" ANNOTATION_REF="a65" PREVIOUS_ANNOTATION="a304">
+                <ANNOTATION_VALUE>are</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a306" ANNOTATION_REF="a65" PREVIOUS_ANNOTATION="a305">
+                <ANNOTATION_VALUE>a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a307" ANNOTATION_REF="a65" PREVIOUS_ANNOTATION="a306">
+                <ANNOTATION_VALUE>lot</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a308" ANNOTATION_REF="a65" PREVIOUS_ANNOTATION="a307">
+                <ANNOTATION_VALUE>of</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a309" ANNOTATION_REF="a65" PREVIOUS_ANNOTATION="a308">
+                <ANNOTATION_VALUE>photographs</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a310" ANNOTATION_REF="a65" PREVIOUS_ANNOTATION="a309">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a311" ANNOTATION_REF="a65" PREVIOUS_ANNOTATION="a310">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a312" ANNOTATION_REF="a65" PREVIOUS_ANNOTATION="a311">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a313" ANNOTATION_REF="a66">
+                <ANNOTATION_VALUE>Erm</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a314" ANNOTATION_REF="a66" PREVIOUS_ANNOTATION="a313">
+                <ANNOTATION_VALUE>a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a315" ANNOTATION_REF="a66" PREVIOUS_ANNOTATION="a314">
+                <ANNOTATION_VALUE>person</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a316" ANNOTATION_REF="a66" PREVIOUS_ANNOTATION="a315">
+                <ANNOTATION_VALUE>who</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a317" ANNOTATION_REF="a66" PREVIOUS_ANNOTATION="a316">
+                <ANNOTATION_VALUE>erm</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a318" ANNOTATION_REF="a67">
+                <ANNOTATION_VALUE>works</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a319" ANNOTATION_REF="a67" PREVIOUS_ANNOTATION="a318">
+                <ANNOTATION_VALUE>as</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a320" ANNOTATION_REF="a67" PREVIOUS_ANNOTATION="a319">
+                <ANNOTATION_VALUE>erm</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a321" ANNOTATION_REF="a67" PREVIOUS_ANNOTATION="a320">
+                <ANNOTATION_VALUE>as</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a322" ANNOTATION_REF="a67" PREVIOUS_ANNOTATION="a321">
+                <ANNOTATION_VALUE>a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a323" ANNOTATION_REF="a67" PREVIOUS_ANNOTATION="a322">
+                <ANNOTATION_VALUE>school</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a324" ANNOTATION_REF="a67" PREVIOUS_ANNOTATION="a323">
+                <ANNOTATION_VALUE>teacher</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a325" ANNOTATION_REF="a67" PREVIOUS_ANNOTATION="a324">
+                <ANNOTATION_VALUE>today</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a326" ANNOTATION_REF="a68">
+                <ANNOTATION_VALUE>surely</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a327" ANNOTATION_REF="a68" PREVIOUS_ANNOTATION="a326">
+                <ANNOTATION_VALUE>can</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a328" ANNOTATION_REF="a68" PREVIOUS_ANNOTATION="a327">
+                <ANNOTATION_VALUE>not</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a329" ANNOTATION_REF="a68" PREVIOUS_ANNOTATION="a328">
+                <ANNOTATION_VALUE>keep</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a330" ANNOTATION_REF="a68" PREVIOUS_ANNOTATION="a329">
+                <ANNOTATION_VALUE>up</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a331" ANNOTATION_REF="a69">
+                <ANNOTATION_VALUE>with</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a332" ANNOTATION_REF="a69" PREVIOUS_ANNOTATION="a331">
+                <ANNOTATION_VALUE>all</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a333" ANNOTATION_REF="a69" PREVIOUS_ANNOTATION="a332">
+                <ANNOTATION_VALUE>of</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a334" ANNOTATION_REF="a69" PREVIOUS_ANNOTATION="a333">
+                <ANNOTATION_VALUE>this</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a335" ANNOTATION_REF="a69" PREVIOUS_ANNOTATION="a334">
+                <ANNOTATION_VALUE>and</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a336" ANNOTATION_REF="a69" PREVIOUS_ANNOTATION="a335">
+                <ANNOTATION_VALUE>not</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a337" ANNOTATION_REF="a69" PREVIOUS_ANNOTATION="a336">
+                <ANNOTATION_VALUE>erm</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a338" ANNOTATION_REF="a69" PREVIOUS_ANNOTATION="a337">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a339" ANNOTATION_REF="a69" PREVIOUS_ANNOTATION="a338">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a340" ANNOTATION_REF="a69" PREVIOUS_ANNOTATION="a339">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a341" ANNOTATION_REF="a69" PREVIOUS_ANNOTATION="a340">
+                <ANNOTATION_VALUE>all</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a342" ANNOTATION_REF="a69" PREVIOUS_ANNOTATION="a341">
+                <ANNOTATION_VALUE>this</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a343" ANNOTATION_REF="a69" PREVIOUS_ANNOTATION="a342">
+                <ANNOTATION_VALUE>is</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a344" ANNOTATION_REF="a69" PREVIOUS_ANNOTATION="a343">
+                <ANNOTATION_VALUE>difficult</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a345" ANNOTATION_REF="a69" PREVIOUS_ANNOTATION="a344">
+                <ANNOTATION_VALUE>to</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a346" ANNOTATION_REF="a69" PREVIOUS_ANNOTATION="a345">
+                <ANNOTATION_VALUE>collect</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a347" ANNOTATION_REF="a69" PREVIOUS_ANNOTATION="a346">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a348" ANNOTATION_REF="a69" PREVIOUS_ANNOTATION="a347">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a349" ANNOTATION_REF="a69" PREVIOUS_ANNOTATION="a348">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a350" ANNOTATION_REF="a70">
+                <ANNOTATION_VALUE>As</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a351" ANNOTATION_REF="a70" PREVIOUS_ANNOTATION="a350">
+                <ANNOTATION_VALUE>for</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a352" ANNOTATION_REF="a70" PREVIOUS_ANNOTATION="a351">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a353" ANNOTATION_REF="a70" PREVIOUS_ANNOTATION="a352">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a354" ANNOTATION_REF="a70" PREVIOUS_ANNOTATION="a353">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a355" ANNOTATION_REF="a71">
+                <ANNOTATION_VALUE>It</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a356" ANNOTATION_REF="a71" PREVIOUS_ANNOTATION="a355">
+                <ANNOTATION_VALUE>takes</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a357" ANNOTATION_REF="a71" PREVIOUS_ANNOTATION="a356">
+                <ANNOTATION_VALUE>time</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a358" ANNOTATION_REF="a71" PREVIOUS_ANNOTATION="a357">
+                <ANNOTATION_VALUE>,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a359" ANNOTATION_REF="a71" PREVIOUS_ANNOTATION="a358">
+                <ANNOTATION_VALUE>and</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a360" ANNOTATION_REF="a71" PREVIOUS_ANNOTATION="a359">
+                <ANNOTATION_VALUE>I</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a361" ANNOTATION_REF="a71" PREVIOUS_ANNOTATION="a360">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a362" ANNOTATION_REF="a71" PREVIOUS_ANNOTATION="a361">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a363" ANNOTATION_REF="a71" PREVIOUS_ANNOTATION="a362">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a364" ANNOTATION_REF="a72">
+                <ANNOTATION_VALUE>as</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a365" ANNOTATION_REF="a72" PREVIOUS_ANNOTATION="a364">
+                <ANNOTATION_VALUE>a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a366" ANNOTATION_REF="a72" PREVIOUS_ANNOTATION="a365">
+                <ANNOTATION_VALUE>free</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a367" ANNOTATION_REF="a72" PREVIOUS_ANNOTATION="a366">
+                <ANNOTATION_VALUE>retiree</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a368" ANNOTATION_REF="a72" PREVIOUS_ANNOTATION="a367">
+                <ANNOTATION_VALUE>,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a369" ANNOTATION_REF="a72" PREVIOUS_ANNOTATION="a368">
+                <ANNOTATION_VALUE>during</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a370" ANNOTATION_REF="a72" PREVIOUS_ANNOTATION="a369">
+                <ANNOTATION_VALUE>this</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a371" ANNOTATION_REF="a72" PREVIOUS_ANNOTATION="a370">
+                <ANNOTATION_VALUE>time</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a372" ANNOTATION_REF="a72" PREVIOUS_ANNOTATION="a371">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a373" ANNOTATION_REF="a72" PREVIOUS_ANNOTATION="a372">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a374" ANNOTATION_REF="a72" PREVIOUS_ANNOTATION="a373">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a375" ANNOTATION_REF="a73">
+                <ANNOTATION_VALUE>I'm</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a376" ANNOTATION_REF="a73" PREVIOUS_ANNOTATION="a375">
+                <ANNOTATION_VALUE>saying</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a377" ANNOTATION_REF="a73" PREVIOUS_ANNOTATION="a376">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a378" ANNOTATION_REF="a73" PREVIOUS_ANNOTATION="a377">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a379" ANNOTATION_REF="a73" PREVIOUS_ANNOTATION="a378">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a380" ANNOTATION_REF="a74">
+                <ANNOTATION_VALUE>that</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a381" ANNOTATION_REF="a74" PREVIOUS_ANNOTATION="a380">
+                <ANNOTATION_VALUE>for</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a382" ANNOTATION_REF="a74" PREVIOUS_ANNOTATION="a381">
+                <ANNOTATION_VALUE>three</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a383" ANNOTATION_REF="a74" PREVIOUS_ANNOTATION="a382">
+                <ANNOTATION_VALUE>years</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a384" ANNOTATION_REF="a74" PREVIOUS_ANNOTATION="a383">
+                <ANNOTATION_VALUE>I</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a385" ANNOTATION_REF="a74" PREVIOUS_ANNOTATION="a384">
+                <ANNOTATION_VALUE>went</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a386" ANNOTATION_REF="a74" PREVIOUS_ANNOTATION="a385">
+                <ANNOTATION_VALUE>there</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a387" ANNOTATION_REF="a74" PREVIOUS_ANNOTATION="a386">
+                <ANNOTATION_VALUE>every</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a388" ANNOTATION_REF="a74" PREVIOUS_ANNOTATION="a387">
+                <ANNOTATION_VALUE>day</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a389" ANNOTATION_REF="a74" PREVIOUS_ANNOTATION="a388">
+                <ANNOTATION_VALUE>,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a390" ANNOTATION_REF="a74" PREVIOUS_ANNOTATION="a389">
+                <ANNOTATION_VALUE>every</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a391" ANNOTATION_REF="a74" PREVIOUS_ANNOTATION="a390">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a392" ANNOTATION_REF="a74" PREVIOUS_ANNOTATION="a391">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a393" ANNOTATION_REF="a74" PREVIOUS_ANNOTATION="a392">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a394" ANNOTATION_REF="a74" PREVIOUS_ANNOTATION="a393">
+                <ANNOTATION_VALUE>almost</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a395" ANNOTATION_REF="a74" PREVIOUS_ANNOTATION="a394">
+                <ANNOTATION_VALUE>every</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a396" ANNOTATION_REF="a74" PREVIOUS_ANNOTATION="a395">
+                <ANNOTATION_VALUE>day</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a397" ANNOTATION_REF="a74" PREVIOUS_ANNOTATION="a396">
+                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="part of speech"
+        PARENT_REF="trstt" PARTICIPANT="@osg1948m" TIER_ID="part_of_speech">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a398" ANNOTATION_REF="a123" CVE_REF="cveid_142ca021-7e4f-4e5d-b817-dcb917148bc2">
+                <ANNOTATION_VALUE>pro</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a399" ANNOTATION_REF="a124" CVE_REF="cveid_a4f924bf-af4a-4a8e-a1bd-271518f5de3e">
+                <ANNOTATION_VALUE>v</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a400" ANNOTATION_REF="a125" CVE_REF="cveid_44f138d0-eee5-40e2-ad4b-6a7eae072bd8">
+                <ANNOTATION_VALUE>art</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a401" ANNOTATION_REF="a126" CVE_REF="cveid_ac39f224-a7cf-485c-a8ec-e0ff388ca33b">
+                <ANNOTATION_VALUE>n</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a402" ANNOTATION_REF="a127" CVE_REF="cveid_ac39f224-a7cf-485c-a8ec-e0ff388ca33b">
+                <ANNOTATION_VALUE>n</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a403" ANNOTATION_REF="a128" CVE_REF="cveid_6c07c933-01ca-4609-89b2-f8e2fdc77403">
+                <ANNOTATION_VALUE>con</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a404" ANNOTATION_REF="a132" CVE_REF="cveid_6c07c933-01ca-4609-89b2-f8e2fdc77403">
+                <ANNOTATION_VALUE>con</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a405" ANNOTATION_REF="a133" CVE_REF="cveid_142ca021-7e4f-4e5d-b817-dcb917148bc2">
+                <ANNOTATION_VALUE>pro</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a406" ANNOTATION_REF="a134" CVE_REF="cveid_a4f924bf-af4a-4a8e-a1bd-271518f5de3e">
+                <ANNOTATION_VALUE>v</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a407" ANNOTATION_REF="a135" CVE_REF="cveid_ac39f224-a7cf-485c-a8ec-e0ff388ca33b">
+                <ANNOTATION_VALUE>n</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a408" ANNOTATION_REF="a137" CVE_REF="cveid_d150f890-d126-4efc-b86e-a04181e4e4ef">
+                <ANNOTATION_VALUE>det</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a409" ANNOTATION_REF="a138" CVE_REF="cveid_ac39f224-a7cf-485c-a8ec-e0ff388ca33b">
+                <ANNOTATION_VALUE>n</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a410" ANNOTATION_REF="a139" CVE_REF="cveid_ac39f224-a7cf-485c-a8ec-e0ff388ca33b">
+                <ANNOTATION_VALUE>n</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a411" ANNOTATION_REF="a140" CVE_REF="cveid_ac39f224-a7cf-485c-a8ec-e0ff388ca33b">
+                <ANNOTATION_VALUE>n</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a412" ANNOTATION_REF="a141" CVE_REF="cveid_a4f924bf-af4a-4a8e-a1bd-271518f5de3e">
+                <ANNOTATION_VALUE>v</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a413" ANNOTATION_REF="a142" CVE_REF="cveid_142ca021-7e4f-4e5d-b817-dcb917148bc2">
+                <ANNOTATION_VALUE>pro</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a414" ANNOTATION_REF="a143" CVE_REF="cveid_6c07c933-01ca-4609-89b2-f8e2fdc77403">
+                <ANNOTATION_VALUE>con</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a415" ANNOTATION_REF="a147" CVE_REF="cveid_142ca021-7e4f-4e5d-b817-dcb917148bc2">
+                <ANNOTATION_VALUE>pro</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a416" ANNOTATION_REF="a148" CVE_REF="cveid_a026f8ab-5e6c-444c-a6c6-a54182e15e3b">
+                <ANNOTATION_VALUE>adv</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a417" ANNOTATION_REF="a149" CVE_REF="cveid_a4f924bf-af4a-4a8e-a1bd-271518f5de3e">
+                <ANNOTATION_VALUE>v</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a418" ANNOTATION_REF="a150" CVE_REF="cveid_142ca021-7e4f-4e5d-b817-dcb917148bc2">
+                <ANNOTATION_VALUE>pro</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a419" ANNOTATION_REF="a151" CVE_REF="cveid_8d3dca36-701b-4200-9be7-4d93db53dc94">
+                <ANNOTATION_VALUE>prep</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a420" ANNOTATION_REF="a152" CVE_REF="cveid_a4f924bf-af4a-4a8e-a1bd-271518f5de3e">
+                <ANNOTATION_VALUE>v</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a421" ANNOTATION_REF="a153" CVE_REF="cveid_9f5f0803-687e-4c85-9db2-d4cc1740cec5">
+                <ANNOTATION_VALUE>int</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a422" ANNOTATION_REF="a154" CVE_REF="cveid_8d3dca36-701b-4200-9be7-4d93db53dc94">
+                <ANNOTATION_VALUE>prep</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a423" ANNOTATION_REF="a155" CVE_REF="cveid_a4f924bf-af4a-4a8e-a1bd-271518f5de3e">
+                <ANNOTATION_VALUE>v</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a424" ANNOTATION_REF="a156" CVE_REF="cveid_ac39f224-a7cf-485c-a8ec-e0ff388ca33b">
+                <ANNOTATION_VALUE>n</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a425" ANNOTATION_REF="a157" CVE_REF="cveid_8d3dca36-701b-4200-9be7-4d93db53dc94">
+                <ANNOTATION_VALUE>prep</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a426" ANNOTATION_REF="a158" CVE_REF="cveid_44f138d0-eee5-40e2-ad4b-6a7eae072bd8">
+                <ANNOTATION_VALUE>art</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a427" ANNOTATION_REF="a159" CVE_REF="cveid_ac39f224-a7cf-485c-a8ec-e0ff388ca33b">
+                <ANNOTATION_VALUE>n</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a428" ANNOTATION_REF="a160" CVE_REF="cveid_9f5f0803-687e-4c85-9db2-d4cc1740cec5">
+                <ANNOTATION_VALUE>int</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a429" ANNOTATION_REF="a161" CVE_REF="cveid_8d3dca36-701b-4200-9be7-4d93db53dc94">
+                <ANNOTATION_VALUE>prep</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a430" ANNOTATION_REF="a165" CVE_REF="cveid_8d3dca36-701b-4200-9be7-4d93db53dc94">
+                <ANNOTATION_VALUE>prep</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a431" ANNOTATION_REF="a166" CVE_REF="cveid_a4f924bf-af4a-4a8e-a1bd-271518f5de3e">
+                <ANNOTATION_VALUE>v</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a432" ANNOTATION_REF="a167" CVE_REF="cveid_d150f890-d126-4efc-b86e-a04181e4e4ef">
+                <ANNOTATION_VALUE>det</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a433" ANNOTATION_REF="a168" CVE_REF="cveid_ac39f224-a7cf-485c-a8ec-e0ff388ca33b">
+                <ANNOTATION_VALUE>n</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a434" ANNOTATION_REF="a169" CVE_REF="cveid_8d3dca36-701b-4200-9be7-4d93db53dc94">
+                <ANNOTATION_VALUE>prep</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a435" ANNOTATION_REF="a170" CVE_REF="cveid_ac39f224-a7cf-485c-a8ec-e0ff388ca33b">
+                <ANNOTATION_VALUE>n</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a436" ANNOTATION_REF="a171" CVE_REF="cveid_ac39f224-a7cf-485c-a8ec-e0ff388ca33b">
+                <ANNOTATION_VALUE>n</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a437" ANNOTATION_REF="a172" CVE_REF="cveid_61337634-b501-4e70-84d4-0ac276ac5a9b">
+                <ANNOTATION_VALUE>post</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a438" ANNOTATION_REF="a173" CVE_REF="cveid_9f5f0803-687e-4c85-9db2-d4cc1740cec5">
+                <ANNOTATION_VALUE>int</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a439" ANNOTATION_REF="a174">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="words" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="phonetic_transcription" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="gestures" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        CONTROLLED_VOCABULARY_REF="Gesture phases"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_phases" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_meaning" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        CONTROLLED_VOCABULARY_REF="POS" GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="part of speech" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="trstt" TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru"/>
+    <LOCALE LANGUAGE_CODE="en" VARIANT="ASCII"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001"
+        LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="POS">
+        <DESCRIPTION LANG_REF="und">Part of Speech</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_ac39f224-a7cf-485c-a8ec-e0ff388ca33b">
+            <CVE_VALUE DESCRIPTION="noun" LANG_REF="und">n</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_a4f924bf-af4a-4a8e-a1bd-271518f5de3e">
+            <CVE_VALUE DESCRIPTION="verb" LANG_REF="und">v</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_9f5f0803-687e-4c85-9db2-d4cc1740cec5">
+            <CVE_VALUE DESCRIPTION="interjection" LANG_REF="und">int</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_edc6988e-53d3-4d48-a882-ceb3c4d3bf20">
+            <CVE_VALUE DESCRIPTION="adjective" LANG_REF="und">adj</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_142ca021-7e4f-4e5d-b817-dcb917148bc2">
+            <CVE_VALUE DESCRIPTION="pronoun" LANG_REF="und">pro</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_d150f890-d126-4efc-b86e-a04181e4e4ef">
+            <CVE_VALUE DESCRIPTION="determiner" LANG_REF="und">det</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_44f138d0-eee5-40e2-ad4b-6a7eae072bd8">
+            <CVE_VALUE DESCRIPTION="article" LANG_REF="und">art</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_8d3dca36-701b-4200-9be7-4d93db53dc94">
+            <CVE_VALUE DESCRIPTION="preposition" LANG_REF="und">prep</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_a026f8ab-5e6c-444c-a6c6-a54182e15e3b">
+            <CVE_VALUE DESCRIPTION="adverb" LANG_REF="und">adv</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_6c07c933-01ca-4609-89b2-f8e2fdc77403">
+            <CVE_VALUE DESCRIPTION="conj" LANG_REF="und">con</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_af147e6a-3bf6-4fd3-82fe-da97048cbf34">
+            <CVE_VALUE DESCRIPTION="demonstrative pronoun" LANG_REF="und">dem</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_61337634-b501-4e70-84d4-0ac276ac5a9b">
+            <CVE_VALUE DESCRIPTION="post" LANG_REF="und">post</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_70911d16-7f6b-4d90-bc50-4b8c4fbc5506">
+            <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">part</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Gesture phases">
+        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_b4386be7-75f5-48a1-9448-1f95d493397e">
+            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_a7bdd295-9b30-451c-8aef-233039ef0741">
+            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_08b4f81c-9bf7-4d4b-8eb5-d65b768051a3">
+            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_563e8bbf-4198-4600-98a3-d503502b5f98">
+            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>
